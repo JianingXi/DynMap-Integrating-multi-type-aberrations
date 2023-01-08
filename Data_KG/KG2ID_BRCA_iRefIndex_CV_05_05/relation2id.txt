@@ -1,0 +1,22 @@
+21
+Interact: interact_with	0
+Mutation: 3'Flank	1
+Mutation: 3'UTR	2
+Mutation: 5'Flank	3
+Mutation: 5'UTR	4
+Mutation: Frame_Shift_Del	5
+Mutation: Frame_Shift_Ins	6
+Mutation: IGR	7
+Mutation: In_Frame_Del	8
+Mutation: In_Frame_Ins	9
+Mutation: Intron	10
+Mutation: Missense_Mutation	11
+Mutation: Nonsense_Mutation	12
+Mutation: Nonstop_Mutation	13
+Mutation: RNA	14
+Mutation: Silent	15
+Mutation: Splice_Region	16
+Mutation: Splice_Site	17
+Mutation: Translation_Start_Site	18
+BelongTo: belong_to_subtype	19
+IsA: Driver	20
