@@ -1,7 +1,7 @@
 # DynMap-Integrating-multi-type-aberrations-
 Integrating multi-type aberrations from DNA and RNA through dynamic mapping gene space for subtype-specific breast cancer driver discovery
 
-![image](https://github.com/JianingXi/DynMap-Integrating-multi-type-aberrations-/blob/master/bin/splash.png)
+![image](https://github.com/JianingXi/DynMap-Integrating-multi-type-aberrations/blob/main/blob/master/bin/splash.png)
 
 Developer: Jianing Xi <xjn@gzhmu.edu.cn>
 
